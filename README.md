@@ -1,2 +1,2 @@
-# project_crowdfunding-master
+# FundRaiser Application
  Blockchain Project using thirdweb
