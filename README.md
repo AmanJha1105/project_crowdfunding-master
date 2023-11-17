@@ -20,5 +20,10 @@ Users can monitor the progress of campaigns in real-time, including the amount r
 
 Thirdweb is used to deploy our smart contract.
 
+![image](https://github.com/AmanJha1105/project_crowdfunding-master/assets/125438101/a379ce49-7fbc-408c-af17-425f971824df)
+
+![image](https://github.com/AmanJha1105/project_crowdfunding-master/assets/125438101/97176311-c399-4fdd-95af-f878c98d017b)
+
+
 
 
